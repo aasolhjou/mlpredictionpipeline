@@ -1,4 +1,4 @@
-# Used Car Sale Price Estimation
+# ML Prediction Pipeline - Used car sale prices in India. 
 
 The following repository contains scripts to clean data and select the most
 important features from data of used car sales in India.
