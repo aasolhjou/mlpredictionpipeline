@@ -138,26 +138,6 @@ models had less data to work with. Often there is a trade off between model
 performance and run time. A diagnostic test on run time could be run to assess
 the benefit of using less features.
 
-The best selected model was then visualized for a plot of it's residuals and
-prediction error, as show below. For a more detailed visualization,
-please see the PDF version in the visualizations folder:
-
-#### Example Residuals Plot on all Features:
-
-[![Residuals-Plot-Visualization.png](https://i.postimg.cc/fTZXpc47/Residuals-Plot-Visualization.png)](https://postimg.cc/yWQkSS8W)
-
-#### Example Residuals Plot on Top 5 Features:
-
-[![Residuals-Plot-Visualization.png](https://i.postimg.cc/7hJ3ChKx/Residuals-Plot-Visualization.png)](https://postimg.cc/H8HcRYGK)
-
-#### Example Prediction Error Plot on all Features:
-
-[![Prediction-Error-Visualization.png](https://i.postimg.cc/bNWPdTzk/Prediction-Error-Visualization.png)](https://postimg.cc/kBQzpWRg)
-
-#### Example Prediction Error Plot on Top 5 Features:
-
-[![Prediction-Error-Visualization.png](https://i.postimg.cc/9MKxgvSQ/Prediction-Error-Visualization.png)](https://postimg.cc/qhcXzZ4P)
-
 To improve Model Performance, a grid search could be used on the
 best model(s). This would test for the optimal parameters for each model in order
 to find the best performing ones. However, this is computationally heavy,
