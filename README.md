@@ -74,16 +74,7 @@ In order to find the 5 best features correlated
 with price, a correlation matrix was created, and the 5 most correlated features
 were selected from there.
 
-#### Correlation Matrix:
-
-[![correlation-matrix-readme.png](https://i.postimg.cc/SxHJsdwz/correlation-matrix-readme.png)](https://postimg.cc/MnbW37ZW)
-
 The top 5 most correlated features were power, engine_size, gears, fuel, kmpl.
-
-#### Top 5 Features:
-
-[![top-5-features-readme.png](https://i.postimg.cc/K8jM4RjC/top-5-features-readme.png)](https://postimg.cc/fV4LrWxv)
-
 
 This makes sense, as a more powerful engine usually means that it is a nicer car,
 and thus be a car that is more in demand. Gears also makes sense, as a buyer will
